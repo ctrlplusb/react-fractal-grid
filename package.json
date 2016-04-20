@@ -1,0 +1,26 @@
+{
+  "name": "react-fractal-grid",
+  "version": "0.0.1",
+  "description": "A fractal grid Component set for React.",
+  "main": "lib/react-fractal-grid.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrlplusb/react-fractal-grid.git"
+  },
+  "keywords": [
+    "react",
+    "grid",
+    "layout",
+    "responsiveness",
+    "fractal"
+  ],
+  "author": "Sean Matheson <sean@ctrlplusb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctrlplusb/react-fractal-grid/issues"
+  },
+  "homepage": "https://github.com/ctrlplusb/react-fractal-grid#readme"
+}
